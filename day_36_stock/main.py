@@ -10,7 +10,7 @@ COMPANY_NAME = "Tesla Inc"
 ## STEP 3: Use https://www.twilio.com
 # Send a seperate message with the percentage change and each article's title and description to your phone number. 
 
-
+#about t0 do this
 #Optional: Format the SMS message like this: 
 """
 TSLA: 🔺2%
