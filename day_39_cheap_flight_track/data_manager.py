@@ -20,12 +20,6 @@ data = response.json()
 # Do something with the data
 excel_dict = (data["sheet1"])
 
-
-
-
-
-
-
 for i in range(len(excel_dict)):
     body = {
         "sheet1":{
