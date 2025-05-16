@@ -17,7 +17,7 @@ response.raise_for_status()  # Raise an error if the request fails
 # Parse the JSON response
 data = response.json()
 
-# Do something with the data
+# extract data
 excel_dict = (data["sheet1"])
 
 for i in range(len(excel_dict)):
