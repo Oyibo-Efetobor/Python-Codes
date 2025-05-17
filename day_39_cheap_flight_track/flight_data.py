@@ -63,6 +63,3 @@ class FlightData:
             return price
         else:
             return None
-flight_data = FlightData()
-
-print(flight_data.get_cheapest_flight("YBR","PAR")) #brandon
